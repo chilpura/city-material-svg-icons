@@ -1,0 +1,1 @@
+This is an svg system of icons created with grunt-grunticon, grunt-svgmin and grunt.clean. Nothing fancy, just a bunch of city logos. 
