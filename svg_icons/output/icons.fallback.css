@@ -2,121 +2,181 @@
 
 .logo-Symbol-FIN { background-image: url('png/Symbol-FIN.png'); background-repeat: no-repeat; }
 
+.logo-ic_account_circle_24px-blueMiddle { background-image: url('png/ic_account_circle_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_account_circle_24px-light { background-image: url('png/ic_account_circle_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_account_circle_24px { background-image: url('png/ic_account_circle_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_add_24px-blueMiddle { background-image: url('png/ic_add_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_add_24px-light { background-image: url('png/ic_add_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_add_24px { background-image: url('png/ic_add_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_add_alert_24px-blueMiddle { background-image: url('png/ic_add_alert_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_add_alert_24px-light { background-image: url('png/ic_add_alert_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_add_alert_24px { background-image: url('png/ic_add_alert_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_arrow_drop_down_24px-blueMiddle { background-image: url('png/ic_arrow_drop_down_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_arrow_drop_down_24px-light { background-image: url('png/ic_arrow_drop_down_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_arrow_drop_down_24px { background-image: url('png/ic_arrow_drop_down_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_arrow_drop_up_24px-blueMiddle { background-image: url('png/ic_arrow_drop_up_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_arrow_drop_up_24px-light { background-image: url('png/ic_arrow_drop_up_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_arrow_drop_up_24px { background-image: url('png/ic_arrow_drop_up_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_attach_file_24px-blueMiddle { background-image: url('png/ic_attach_file_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_attach_file_24px-light { background-image: url('png/ic_attach_file_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_attach_file_24px { background-image: url('png/ic_attach_file_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_chat_bubble_24px-blueMiddle { background-image: url('png/ic_chat_bubble_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_chat_bubble_24px-light { background-image: url('png/ic_chat_bubble_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_chat_bubble_24px { background-image: url('png/ic_chat_bubble_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_chevron_left_24px-blueMiddle { background-image: url('png/ic_chevron_left_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_chevron_left_24px-light { background-image: url('png/ic_chevron_left_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_chevron_left_24px { background-image: url('png/ic_chevron_left_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_chevron_right_24px-blueMiddle { background-image: url('png/ic_chevron_right_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_chevron_right_24px-light { background-image: url('png/ic_chevron_right_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_chevron_right_24px { background-image: url('png/ic_chevron_right_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_clear_24px-blueMiddle { background-image: url('png/ic_clear_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_clear_24px-light { background-image: url('png/ic_clear_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_clear_24px { background-image: url('png/ic_clear_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_create_24px-blueMiddle { background-image: url('png/ic_create_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_create_24px-light { background-image: url('png/ic_create_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_create_24px { background-image: url('png/ic_create_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_delete_24px-blueMiddle { background-image: url('png/ic_delete_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_delete_24px-light { background-image: url('png/ic_delete_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_delete_24px { background-image: url('png/ic_delete_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_desktop_windows_24px-blueMiddle { background-image: url('png/ic_desktop_windows_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_desktop_windows_24px-light { background-image: url('png/ic_desktop_windows_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_desktop_windows_24px { background-image: url('png/ic_desktop_windows_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_email_24px-blueMiddle { background-image: url('png/ic_email_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_email_24px-light { background-image: url('png/ic_email_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_email_24px { background-image: url('png/ic_email_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_error_24px-blueMiddle { background-image: url('png/ic_error_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_error_24px-light { background-image: url('png/ic_error_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_error_24px { background-image: url('png/ic_error_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_exit_to_app_24px-blueMiddle { background-image: url('png/ic_exit_to_app_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_exit_to_app_24px-light { background-image: url('png/ic_exit_to_app_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_exit_to_app_24px { background-image: url('png/ic_exit_to_app_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_expand_less_24px-blueMiddle { background-image: url('png/ic_expand_less_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_expand_less_24px-light { background-image: url('png/ic_expand_less_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_expand_less_24px { background-image: url('png/ic_expand_less_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_expand_more_24px-blueMiddle { background-image: url('png/ic_expand_more_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_expand_more_24px-light { background-image: url('png/ic_expand_more_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_expand_more_24px { background-image: url('png/ic_expand_more_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_home_24px-blueMiddle { background-image: url('png/ic_home_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_home_24px-light { background-image: url('png/ic_home_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_home_24px { background-image: url('png/ic_home_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_inbox_24px-blueMiddle { background-image: url('png/ic_inbox_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_inbox_24px-light { background-image: url('png/ic_inbox_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_inbox_24px { background-image: url('png/ic_inbox_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_info_24px-blueMiddle { background-image: url('png/ic_info_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_info_24px-light { background-image: url('png/ic_info_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_info_24px { background-image: url('png/ic_info_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_language_24px-blueMiddle { background-image: url('png/ic_language_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_language_24px-light { background-image: url('png/ic_language_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_language_24px { background-image: url('png/ic_language_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_menu_24px-blueMiddle { background-image: url('png/ic_menu_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_menu_24px-light { background-image: url('png/ic_menu_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_menu_24px { background-image: url('png/ic_menu_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_open_in_new_24px-blueMiddle { background-image: url('png/ic_open_in_new_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_open_in_new_24px-light { background-image: url('png/ic_open_in_new_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_open_in_new_24px { background-image: url('png/ic_open_in_new_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_phone_iphone_24px-blueMiddle { background-image: url('png/ic_phone_iphone_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_phone_iphone_24px-light { background-image: url('png/ic_phone_iphone_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_phone_iphone_24px { background-image: url('png/ic_phone_iphone_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_remove_24px-blueMiddle { background-image: url('png/ic_remove_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_remove_24px-light { background-image: url('png/ic_remove_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_remove_24px { background-image: url('png/ic_remove_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_search_24px-blueMiddle { background-image: url('png/ic_search_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_search_24px-light { background-image: url('png/ic_search_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_search_24px { background-image: url('png/ic_search_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_send_24px-blueMiddle { background-image: url('png/ic_send_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_send_24px-light { background-image: url('png/ic_send_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_send_24px { background-image: url('png/ic_send_24px.png'); background-repeat: no-repeat; }
 
+.logo-ic_tablet_24px-blueMiddle { background-image: url('png/ic_tablet_24px-blueMiddle.png'); background-repeat: no-repeat; }
+
 .logo-ic_tablet_24px-light { background-image: url('png/ic_tablet_24px-light.png'); background-repeat: no-repeat; }
 
 .logo-ic_tablet_24px { background-image: url('png/ic_tablet_24px.png'); background-repeat: no-repeat; }
+
+.logo-ic_warning_24px-blueMiddle { background-image: url('png/ic_warning_24px-blueMiddle.png'); background-repeat: no-repeat; }
 
 .logo-ic_warning_24px-light { background-image: url('png/ic_warning_24px-light.png'); background-repeat: no-repeat; }
 

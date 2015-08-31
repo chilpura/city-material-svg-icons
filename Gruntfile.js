@@ -36,8 +36,7 @@ module.exports = function(grunt) {
                     //defaultWidth:'16px',
                     colors: {
                          light: '#ffffff',
-                    //     danger: '#ed3921',
-                    //     success: '#8DC63F'
+                         blueMiddle: '#3c8fde',
                     }
                 }
             }
