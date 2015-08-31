@@ -36,7 +36,7 @@ module.exports = function(grunt) {
                     //defaultWidth:'16px',
                     colors: {
                          light: '#ffffff',
-                         blueMiddle: '#3c8fde',
+                         blueMiddle: '#3c8fde'
                     }
                 }
             }
