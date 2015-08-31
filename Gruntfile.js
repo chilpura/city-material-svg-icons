@@ -34,11 +34,11 @@ module.exports = function(grunt) {
                     cssprefix: '.logo-',
                     //defaultHeight:'16px',
                     //defaultWidth:'16px',
-                    // colors: {
-                    //     light: '#ccc',
+                    colors: {
+                         light: '#ffffff',
                     //     danger: '#ed3921',
                     //     success: '#8DC63F'
-                    // }
+                    }
                 }
             }
         }
