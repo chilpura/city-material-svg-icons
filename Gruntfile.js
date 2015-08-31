@@ -32,8 +32,8 @@ module.exports = function(grunt) {
                 }],
                 options: {
                     cssprefix: '.logo-',
-                    defaultHeight:'16px',
-                    defaultWidth:'16px',
+                    //defaultHeight:'16px',
+                    //defaultWidth:'16px',
                     // colors: {
                     //     light: '#ccc',
                     //     danger: '#ed3921',
