@@ -18,7 +18,6 @@ module.exports = function(grunt) {
                 cwd: 'svg_icons/raw',
                 src: ['*.svg'],
                 dest: 'svg_icons/compressed',
-                //ext: '.colors-light-danger-success.svg'
             }
         },
 
@@ -31,14 +30,14 @@ module.exports = function(grunt) {
                     dest: 'svg_icons/output'
                 }],
                 options: {
-                    cssprefix: '.logo-',
+                    cssprefix: '.icon-',
                     //defaultHeight:'16px',
                     //defaultWidth:'16px',
-                    // colors: {
-                    //     light: '#ccc',
-                    //     danger: '#ed3921',
-                    //     success: '#8DC63F'
-                    // }
+                    previewTemplate:'template/preview.hbs',
+                    colors: {
+                         light: '#ffffff',
+                         blueMiddle: '#3c8fde'
+                    }
                 }
             }
         }
