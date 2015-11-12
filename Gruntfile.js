@@ -36,7 +36,8 @@ module.exports = function(grunt) {
                     previewTemplate:'template/preview.hbs',
                     colors: {
                          light: '#ffffff',
-                         blueMiddle: '#3c8fde'
+                         blueMiddle: '#3c8fde',
+                         redMiddle: '#fa423b'
                     }
                 }
             }
