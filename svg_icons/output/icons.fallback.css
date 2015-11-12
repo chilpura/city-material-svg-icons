@@ -20,6 +20,8 @@
 
 .icon-add_alert { background-image: url('png/add_alert.png'); background-repeat: no-repeat; }
 
+.icon-apua { background-image: url('png/apua.png'); background-repeat: no-repeat; }
+
 .icon-arrow_drop_down-blueMiddle { background-image: url('png/arrow_drop_down-blueMiddle.png'); background-repeat: no-repeat; }
 
 .icon-arrow_drop_down-light { background-image: url('png/arrow_drop_down-light.png'); background-repeat: no-repeat; }
@@ -128,6 +130,14 @@
 
 .icon-info { background-image: url('png/info.png'); background-repeat: no-repeat; }
 
+.icon-kalenterivaraus-pieni { background-image: url('png/kalenterivaraus-pieni.png'); background-repeat: no-repeat; }
+
+.icon-kalenterivaraus-uusi-pieni { background-image: url('png/kalenterivaraus-uusi-pieni.png'); background-repeat: no-repeat; }
+
+.icon-kalenterivaraus-uusi { background-image: url('png/kalenterivaraus-uusi.png'); background-repeat: no-repeat; }
+
+.icon-kalenterivaraus { background-image: url('png/kalenterivaraus.png'); background-repeat: no-repeat; }
+
 .icon-kansio-0 { background-image: url('png/kansio-0.png'); background-repeat: no-repeat; }
 
 .icon-kansio-1 { background-image: url('png/kansio-1.png'); background-repeat: no-repeat; }
@@ -150,6 +160,14 @@
 
 .icon-kansio-9plus { background-image: url('png/kansio-9plus.png'); background-repeat: no-repeat; }
 
+.icon-kirje-pieni { background-image: url('png/kirje-pieni.png'); background-repeat: no-repeat; }
+
+.icon-kirje-uusi-pieni { background-image: url('png/kirje-uusi-pieni.png'); background-repeat: no-repeat; }
+
+.icon-kirje-uusi { background-image: url('png/kirje-uusi.png'); background-repeat: no-repeat; }
+
+.icon-kirje { background-image: url('png/kirje.png'); background-repeat: no-repeat; }
+
 .icon-language-blueMiddle { background-image: url('png/language-blueMiddle.png'); background-repeat: no-repeat; }
 
 .icon-language-light { background-image: url('png/language-light.png'); background-repeat: no-repeat; }
@@ -170,11 +188,41 @@
 
 .icon-phone_iphone { background-image: url('png/phone_iphone.png'); background-repeat: no-repeat; }
 
+.icon-pilleri { background-image: url('png/pilleri.png'); background-repeat: no-repeat; }
+
+.icon-polku-1vaihe-eitoteutunut { background-image: url('png/polku-1vaihe-eitoteutunut.png'); background-repeat: no-repeat; }
+
+.icon-polku-1vaihe-seuraava { background-image: url('png/polku-1vaihe-seuraava.png'); background-repeat: no-repeat; }
+
+.icon-polku-1vaihe-toteutunut { background-image: url('png/polku-1vaihe-toteutunut.png'); background-repeat: no-repeat; }
+
+.icon-polku-1vaihe-vahvistamaton { background-image: url('png/polku-1vaihe-vahvistamaton.png'); background-repeat: no-repeat; }
+
+.icon-polku-1vaihe-vahvistettu { background-image: url('png/polku-1vaihe-vahvistettu.png'); background-repeat: no-repeat; }
+
+.icon-polku-eimaaritetty { background-image: url('png/polku-eimaaritetty.png'); background-repeat: no-repeat; }
+
+.icon-polku-toteutumaton { background-image: url('png/polku-toteutumaton.png'); background-repeat: no-repeat; }
+
+.icon-polku-toteutunut { background-image: url('png/polku-toteutunut.png'); background-repeat: no-repeat; }
+
+.icon-polku-tuleva-vahvistettu { background-image: url('png/polku-tuleva-vahvistettu.png'); background-repeat: no-repeat; }
+
+.icon-polku-vahvistamaton { background-image: url('png/polku-vahvistamaton.png'); background-repeat: no-repeat; }
+
+.icon-polku-vahvistettu { background-image: url('png/polku-vahvistettu.png'); background-repeat: no-repeat; }
+
+.icon-pullo { background-image: url('png/pullo.png'); background-repeat: no-repeat; }
+
 .icon-remove-blueMiddle { background-image: url('png/remove-blueMiddle.png'); background-repeat: no-repeat; }
 
 .icon-remove-light { background-image: url('png/remove-light.png'); background-repeat: no-repeat; }
 
 .icon-remove { background-image: url('png/remove.png'); background-repeat: no-repeat; }
+
+.icon-savuke { background-image: url('png/savuke.png'); background-repeat: no-repeat; }
+
+.icon-savukeaski { background-image: url('png/savukeaski.png'); background-repeat: no-repeat; }
 
 .icon-search-blueMiddle { background-image: url('png/search-blueMiddle.png'); background-repeat: no-repeat; }
 
@@ -193,6 +241,22 @@
 .icon-tablet-light { background-image: url('png/tablet-light.png'); background-repeat: no-repeat; }
 
 .icon-tablet { background-image: url('png/tablet.png'); background-repeat: no-repeat; }
+
+.icon-tiedote-uusi { background-image: url('png/tiedote-uusi.png'); background-repeat: no-repeat; }
+
+.icon-tiedote { background-image: url('png/tiedote.png'); background-repeat: no-repeat; }
+
+.icon-vastauspyynto-pieni { background-image: url('png/vastauspyynto-pieni.png'); background-repeat: no-repeat; }
+
+.icon-vastauspyynto-uusi-pieni { background-image: url('png/vastauspyynto-uusi-pieni.png'); background-repeat: no-repeat; }
+
+.icon-vastauspyynto-uusi { background-image: url('png/vastauspyynto-uusi.png'); background-repeat: no-repeat; }
+
+.icon-vastauspyynto { background-image: url('png/vastauspyynto.png'); background-repeat: no-repeat; }
+
+.icon-viesti-uusi { background-image: url('png/viesti-uusi.png'); background-repeat: no-repeat; }
+
+.icon-viesti { background-image: url('png/viesti.png'); background-repeat: no-repeat; }
 
 .icon-warning-blueMiddle { background-image: url('png/warning-blueMiddle.png'); background-repeat: no-repeat; }
 
